@@ -1,4 +1,4 @@
-import { clear } from "@testing-library/user-event/dist/clear";
+// import { clear } from "@testing-library/user-event/dist/clear";
 import React , {useState} from "react";
 export default function TextForm(props) {
     const Upclick=()=>
